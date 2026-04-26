@@ -1,0 +1,27 @@
+/* CSS Document */
+.back{
+	background-image: url("img/TUMS---Tehran-University-of-Medical-Sciences_2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	/*color: white;*/
+}
+
+.cb1{
+	
+	width: 90%;
+	max-width: 1000000px;
+	
+	border-radius: 1rem;
+	border: 1px solid transparent;
+	
+	backdrop-filter: blur(1.3rem);
+	box-shadow: 1.3rem 1.3rem 1.3rem rgb(0, 0, 0, 0.6);
+	background-color: rgba(112,108,109,0.3);
+	border-top-color: rgba(225,225,225, 0.8);
+	border-right-color: rgba(225,225,225, 0.5);
+	border-left-color: rgba(225,225,225, 0.8);
+	border-bottom-color: rgba(225,225,225, 0.5);
+	
+}
+/*آدرس آموزش دیو شیشه ای: https://www.youtube.com/watch?v=AIS3rPaaSOs*/
